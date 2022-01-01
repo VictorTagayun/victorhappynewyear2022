@@ -3,7 +3,7 @@
 ## Preview
 
 
-![A rendered view of the blocks](https://raw.githubusercontent.com/VictorTagayun/asmgongxifacai/master/ASMPowerElectronics.png)
+![A rendered view of the blocks](https://raw.githubusercontent.com/VictorTagayun/victorhappynewyear2022/master/victorheppynewyear2022.png)
 
 
 [My Github IO page](https://victortagayun.github.io/)  
