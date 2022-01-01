@@ -12,8 +12,6 @@
 
 [My Repositories](https://github.com/VictorTagayun?tab=repositories)
 
-[LinkedIn Posts](https://www.linkedin.com/in/victortagayun/detail/recent-activity/shares/)  
-
 *Disclaimer:*
 [Updated Disclaimer](https://github.com/VictorTagayun/GlobalDisclaimer)
 
