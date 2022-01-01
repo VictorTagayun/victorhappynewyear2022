@@ -6,9 +6,6 @@
 ![A rendered view of the blocks](https://raw.githubusercontent.com/VictorTagayun/asmgongxifacai/master/ASMPowerElectronics.png)
 
 
-
-> Open this page at [https://victortagayun.github.io/victorhappynewyear2022/](https://victortagayun.github.io/victorhappynewyear2022/)
-
 [My Github IO page](https://victortagayun.github.io/)  
 
 [My Github page](https://github.com/VictorTagayun)
