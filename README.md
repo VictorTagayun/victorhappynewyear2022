@@ -1,4 +1,4 @@
-## Open this page at [https://victortagayun.github.io/victorhappynewyear2022//](https://victortagayun.github.io/victorhappynewyear2022/)
+## Open this page at [https://victortagayun.github.io/victorhappynewyear2022/](https://victortagayun.github.io/victorhappynewyear2022/)
 
 ## Preview
 
