@@ -9,31 +9,18 @@
 
 > Open this page at [https://victortagayun.github.io/victorhappynewyear2022/](https://victortagayun.github.io/victorhappynewyear2022/)
 
-## Use as Extension
+[My Github IO page](https://victortagayun.github.io/)  
 
-This repository can be added as an **extension** in MakeCode.
+[My Github page](https://github.com/VictorTagayun)
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/victortagayun/victorhappynewyear2022** and import
+[My Repositories](https://github.com/VictorTagayun?tab=repositories)
 
-## Edit this project ![Build status badge](https://github.com/victortagayun/victorhappynewyear2022/workflows/MakeCode/badge.svg)
+[LinkedIn Posts](https://www.linkedin.com/in/victortagayun/detail/recent-activity/shares/)  
 
-To edit this repository in MakeCode.
+*Disclaimer:*
+[Updated Disclaimer](https://github.com/VictorTagayun/GlobalDisclaimer)
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/victortagayun/victorhappynewyear2022** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/victortagayun/victorhappynewyear2022/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+*The projects posted here are for my Personal reference, learning and educational purposes only.*
+*The purpose of a certain project may be for testing a module and may be just a part of a whole project.*
+*It should not be used in a production or commercial environment.*
+*Any cause of injury and/or death is the sole responsibility of the user.*
