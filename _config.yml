@@ -1,7 +1,7 @@
 makecode:
-  target: arcade
-  platform: arcade
-  home_url: https://arcade.makecode.com/
+  target: 
+  platform: 
+  home_url: 
 theme: jekyll-theme-slate
 include:
   - assets
